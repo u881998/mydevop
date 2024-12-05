@@ -1,0 +1,28 @@
+artist_name: "Muhammad Umar Khan"
+age: 26 
+primary_artistic_medium: "Digital Art"
+
+current_projects:
+  - title: "Urban Dreams"
+    description: "A series of digital paintings depicting futuristic cityscapes."
+  - title: "Nature Reimagined"
+    description: "Exploring nature through abstract forms and vibrant colors."
+  - title: "Portraits of Emotion"
+    description: "A collection of portraits focusing on human expressions and emotions."
+
+inspirations:
+  - "Vincent van Gogh"
+  - "Surrealism"
+  - "Hayao Miyazaki"
+  - "Contemporary Abstract Art"
+
+exhibition_history:
+  - name: "Art of Tomorrow Exhibition"
+    year: 2022
+    location: "Lahore Art Gallery"
+  - name: "Digital Visions Showcase"
+    year: 2023
+    location: "Karachi Art Expo"
+  - name: "Expressions of Humanity"
+    year: 2021
+    location: "Online Virtual Gallery"

@@ -1,0 +1,24 @@
+name: "Muhammad Umar Khan"
+age: 26 
+favorite_travel_destination: "Switzerland"
+
+travel_history:
+  - country_name: "France"
+    duration_of_stay: "2 weeks"
+  - country_name: "Japan"
+    duration_of_stay: "1 month"
+  - country_name: "Turkey"
+    duration_of_stay: "10 days"
+  - country_name: "Australia"
+    duration_of_stay: "3 weeks"
+  - country_name: "United Kingdom"
+    duration_of_stay: "2 weeks"
+
+travel_preferences:
+  - adventure
+  - relaxation
+  - cultural exploration
+  - food tourism
+contact_info:
+  email: "muk881998@gmail.com"
+  phone_number: "+923130564006"

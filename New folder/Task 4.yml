@@ -1,0 +1,33 @@
+volunteer_name: "Muhammad Umar Khan"
+age: 30  
+primary_focus_area: "Education"
+
+volunteer_experience:
+  - organization_name: "Teach for Hope"
+    role: "Mentor"
+    duration: "2 years"
+  - organization_name: "Green Earth Initiative"
+    role: "Event Coordinator"
+    duration: "1 year"
+  - organization_name: "Community Health Outreach"
+    role: "Volunteer Organizer"
+    duration: "1.5 years"
+  - organization_name: "Youth Empowerment Network"
+    role: "Program Facilitator"
+    duration: "2.5 years"
+
+community_impact:
+  - "Organized free tutoring sessions for underprivileged students."
+  - "Led a recycling awareness campaign in the local community."
+  - "Coordinated health workshops promoting wellness and hygiene."
+  - "Facilitated youth leadership programs to develop public speaking skills."
+
+skills_developed:
+  leadership:
+    description: "Managed teams and coordinated community events."
+  communication:
+    description: "Enhanced public speaking and interpersonal communication."
+  project_management:
+    description: "Organized and executed multiple community service projects."
+  problem_solving:
+    description: "Developed solutions for challenges in community outreach."

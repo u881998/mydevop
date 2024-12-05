@@ -1,0 +1,24 @@
+name: "Muhammad Umar Khan"
+age: 26  
+fitness_level: "intermediate"
+
+fitness_goals:
+  - "Run a 5K race in under 30 minutes"
+  - "Lose 5 kg in 3 months"
+  - "Increase muscle mass by 10%"
+
+dietary_preferences:
+  - "Pescatarian" 
+  - "Gluten-free"
+  - "Low sugar"
+
+exercise_routine:
+  cardio:
+    type: "Running"
+    frequency: "3 times a week"
+  strength_training:
+    type: "Weightlifting"
+    frequency: "4 times a week"
+  flexibility:
+    type: "Yoga"
+    frequency: "2 times a week"
